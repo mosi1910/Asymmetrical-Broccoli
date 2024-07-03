@@ -1,2 +1,2 @@
-# asymmetrical-broccoli
+# asymmetrical-broccoli 🥦
 https://github.com/humhub/humhub
