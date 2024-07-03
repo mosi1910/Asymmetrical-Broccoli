@@ -1,6 +1,6 @@
 # asymmetrical-broccoli 🥦
 https://github.com/humhub/humhub
-/n
+<br/>
 Team Members:
   Mostafa Khoshsayr
   Elina Tavakoli
