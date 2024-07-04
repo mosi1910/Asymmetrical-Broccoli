@@ -1,5 +1,5 @@
 # asymmetrical-broccoli 🥦
-<br/>
+
 📚Team Members:
 - Mostafa Khoshsayr
 - Elina Tavakoli
@@ -7,7 +7,8 @@
 - Aynaz Ezadi
 - Sepehr Gholipour
 
-in short term we decided to use [HumHub](https://github.com/humhub/humhub) at last..
+
+# in short term we decided to use [HumHub](https://github.com/humhub/humhub) at last..
 
 # Software Engineering Course Project
 **University of Guilan - Spring 2024**
