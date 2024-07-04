@@ -2,11 +2,11 @@
 https://github.com/humhub/humhub
 <br/>
 📚Team Members:<br/>
-        🧠Mostafa Khoshsayr<br/>
-        🏃🏻‍♀️Elina Tavakoli<br/>
-        👻Ava Moshfegh<br/>
-        💪🏼Aynaz Ezadi<br/>
-        💻Sepehr Gholipour<br/>
+        Mostafa Khoshsayr<br/>
+        Elina Tavakoli<br/>
+        Ava Moshfegh<br/>
+        Aynaz Ezadi<br/>
+        Sepehr Gholipour<br/>
 
 # Software Engineering Course Project
 **University of Guilan - Spring 2024**
