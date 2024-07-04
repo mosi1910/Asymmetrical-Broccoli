@@ -17,7 +17,7 @@ https://github.com/humhub/humhub
 In this phase we designed an social media app prototype for Android users.       
 For this application, we considered the features of posting post, creating groups, forums, publishing news and several other features. The  users can follow their friends and also communicate with them in groups or forums.    
 - You can check out our designs in this [Figma Design File](https://www.figma.com/design/KWXt4XeBgLU9o7mq48Ez9x/Untitled?node-id=0-1&t=6su7HRzuoLbQ72qK-0).
-- You can download our prototype's pages from this [link](https://github.com/amirezzati/SE/blob/main/Phase1%20%20-%20Prototyping%20Social%20Media/Pages.pdf).   
+- You can download our prototype's pages from this [link](https://www.figma.com/proto/KWXt4XeBgLU9o7mq48Ez9x/Untitled?node-id=0-1&t=VGcfxSzM9gDAzTiB-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3).   
 - Our phase 1 report is available in this [link](https://github.com/amirezzati/SE/blob/main/Phase1%20%20-%20Prototyping%20Social%20Media/SE%20-%20Phase%201%20report%20(2).pdf).
             
 <hr>
