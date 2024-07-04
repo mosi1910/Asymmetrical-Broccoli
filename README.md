@@ -1,12 +1,12 @@
 # asymmetrical-broccoli 🥦
 https://github.com/humhub/humhub
 <br/>
-📚Team Members:<br/>
-        Mostafa Khoshsayr<br/>
-        Elina Tavakoli<br/>
-        Ava Moshfegh<br/>
-        Aynaz Ezadi<br/>
-        Sepehr Gholipour<br/>
+📚Team Members:
+- Mostafa Khoshsayr
+- Elina Tavakoli
+- Ava Moshfegh
+- Aynaz Ezadi
+- Sepehr Gholipour
 
 # Software Engineering Course Project
 **University of Guilan - Spring 2024**
