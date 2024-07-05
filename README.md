@@ -50,4 +50,4 @@ We checked performance using these tools:
 Our phase 3 report is available in this [link](none)
 <hr>     
 <br>           
-[Sepehr Gholipour](https://github.com/sepehwr)
+[SepehrGholipour](https://github.com/sepehwr)
