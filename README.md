@@ -1,14 +1,14 @@
-# asymmetrical-broccoli 🥦
+# Asymmetrical-Broccoli 🥦
 
 *📚Team Members:*
-- Mostafa Khoshsayr
-- Elina Tavakoli
+- Mostafa Khoshsiyar
+- Elina Tavakkoli
 - Ava Moshfegh
 - Aynaz Ezadi
 - [Sepehr Gholipour](https://github.com/sepehwr)
 
 
-# in short term we decided to use [HumHub](https://github.com/humhub/humhub) at last..
+# In short term we decided to use [HumHub](https://github.com/humhub/humhub) at last..
 <br>           
 
 
