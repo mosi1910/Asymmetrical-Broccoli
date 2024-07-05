@@ -1,11 +1,11 @@
 # asymmetrical-broccoli 🥦
 
-📚Team Members:
+*📚Team Members:*
 - Mostafa Khoshsayr
 - Elina Tavakoli
 - Ava Moshfegh
 - Aynaz Ezadi
-- Sepehr Gholipour
+- [Sepehr Gholipour](https://github.com/sepehwr)
 
 
 # in short term we decided to use [HumHub](https://github.com/humhub/humhub) at last..
@@ -50,4 +50,3 @@ We checked performance using these tools:
 Our phase 3 report is available in this [link](none)
 <hr>     
 <br>           
-[SepehrGholipour](https://github.com/sepehwr)
