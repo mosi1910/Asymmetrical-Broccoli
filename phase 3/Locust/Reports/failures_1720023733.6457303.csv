@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/humhub/index.php?r=space%2Fspace&cguid=31814e33-2f3f-489c-873a-ba9512943fff,CatchResponseError('Failed to find the post div.'),114

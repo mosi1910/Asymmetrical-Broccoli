@@ -1,0 +1,14 @@
+Count,Message,Traceback,Nodes
+357,'NoneType' object is not subscriptable,"  File ""C:\Users\Mostafa\AppData\Local\Programs\Python\Python312\Lib\site-packages\locust\user\task.py"", line 340, in run
+    self.execute_next_task()
+  File ""C:\Users\Mostafa\AppData\Local\Programs\Python\Python312\Lib\site-packages\locust\user\task.py"", line 373, in execute_next_task
+    self.execute_task(self._task_queue.popleft())
+  File ""C:\Users\Mostafa\AppData\Local\Programs\Python\Python312\Lib\site-packages\locust\user\task.py"", line 385, in execute_task
+    task(self)
+  File ""C:\Python Projects\pythonProject\locustfile.py"", line 228, in logout
+    csrf_token = self.extract_csrf_token(response.text)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Python Projects\pythonProject\locustfile.py"", line 31, in extract_csrf_token
+    csrf_token = soup.find('input', {'name': '_csrf'})['value']
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+",local
