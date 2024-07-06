@@ -3,6 +3,7 @@ in this phase we decided to test 3 tools for basic social media apps on our loca
 - Elgg
 - Ossn
 - Humhub
+  you can read the Docs here: [link](https://github.com/mosi1910/Asymmetrical-Broccoli/blob/main/phase%202/Phase2.pdf)
   </br>
   </br>
   
