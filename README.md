@@ -10,9 +10,8 @@
 
 # In short term we decided to use [HumHub](https://github.com/humhub/humhub) at last..
 <hr>
-Our Humhub project's files are here: 
 
-[ClickME](https://github.com/humhub/humhub).
+[Our Humhub's files are here](https://github.com/humhub/humhub)
 
 <br>           
 
