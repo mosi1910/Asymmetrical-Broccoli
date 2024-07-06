@@ -30,7 +30,7 @@ For this application, we considered the features of posting post, creating group
             
 <hr>
 
-fix please
+
 **Phase 2: Reviewing Some Social Media Projects**      
 In this phase we checked [HumHub](https://github.com/humhub/humhub), [ELGG](https://github.com/Elgg/Elgg.git), and [OSSN](https://github.com/opensource-socialnetwork/opensource-socialnetwork.git) projects.     
 
@@ -39,7 +39,7 @@ We had three steps in this phase:
 - Checking security of HumHub project with Acunetix and OWASP ZAP tools.
 - Checking code equality of HumHub project with SonarQube tool.
 
-Our phase 2 report is available in this [link](nuh).
+Our phase 2 report is available in this [link](https://github.com/mosi1910/Asymmetrical-Broccoli/blob/main/phase%202/Phase2.pdf).
       <hr>
 
 **Phase 3: Checking Performance, Load Testing, Stress Testing**      
@@ -51,6 +51,6 @@ We checked performance using these tools:
 - [Locust](https://locust.io/) is for load and stress testing.
 - [JMeter](https://jmeter.apache.org/) is for load and stress testing.
 
-Our phase 3 report is available in this [link](none)
+Our phase 3 report is available in this [link](https://github.com/mosi1910/Asymmetrical-Broccoli/blob/main/phase%203/فاز%20سوم.pdf)
 <hr>     
 <br>           
