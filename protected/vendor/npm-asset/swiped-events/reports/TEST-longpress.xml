@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="long-press" errors="0" tests="2" failures="0" time="2.204" timestamp="2017-07-06T20:51:14">
+  <testcase classname="long-press" name="should fire long-press event after default 1.5s" time="1.829"></testcase>
+  <testcase classname="long-press" name="should fire long-press event using data-long-press-delay" time="0.374"></testcase>
+</testsuite>
+</testsuites>
