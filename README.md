@@ -2,7 +2,7 @@
 
 *📚Team Members:*
 - Mostafa Khoshsiyar
-- Elina Tavakkoli test
+- Elina Tavakkoli
 - Ava Moshfegh
 - Aynaz Ezadi
 - [Sepehr Gholipour](https://github.com/sepehwr)
